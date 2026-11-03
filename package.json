@@ -2,6 +2,6 @@
   "name": "alrai-rss",
   "private": true,
   "scripts": {
-    "build": "node scripts/build-feed.mjs"
+    "build": "node build-feed.mjs"
   }
 }
